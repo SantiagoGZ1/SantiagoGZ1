@@ -4,8 +4,11 @@
 
 ### My learned technologies
 
-
-![css](images/piton2.png)
+![html](images/html.png)
+![css](images/css-3.png)
+![JS](images/js.png)
+![python](images/piton2.png)
+![git](images/git.png)
 
 
 
