@@ -1,6 +1,7 @@
 ## Hi, i'm Santiago Garcia 👋
 
 ![Banner](images/banner.png)
+I'm Santiago, I'm 23 years old, I live in Colombia and I'm a self-taught student of web programming and English.
 
 ### My learned technologies
 
@@ -9,20 +10,14 @@
 ![JS](images/js.png)
 ![python](images/piton2.png)
 ![git](images/git.png)
+---
+### I Like...
+- Web design 💻
+- Web programming 🖱️
+- Create and edit tiktok videos 📽️
+- Gym 🏃
 
+---
 
-
-<!--
-**SantiagoGZ1/SantiagoGZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Media
+[![Esta es una imagen de ejemplo](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@programacion0xp?_t=8ixHbsqwXnq&_r=1)
