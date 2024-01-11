@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi, i'm Santiago Garcia 👋
+
+![Banner](images/banner.png)
+
+### My learned technologies
+<div>
+
+  ![html](images/html-5.png)
+  ![css](images/css-3.png)
+  ![JavaScript](images/js.png)
+  ![css](images/git.png)
+  ![css](images/piton.png)
+</div>
+
 
 <!--
 **SantiagoGZ1/SantiagoGZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
