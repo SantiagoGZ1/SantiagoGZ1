@@ -3,14 +3,10 @@
 ![Banner](images/banner.png)
 
 ### My learned technologies
-<div>
 
-  ![html](images/html-5.png)
-  ![css](images/css-3.png)
-  ![JavaScript](images/js.png)
-  ![css](images/git.png)
-  ![css](images/piton.png)
-</div>
+
+![css](images/piton2.png)
+
 
 
 <!--
