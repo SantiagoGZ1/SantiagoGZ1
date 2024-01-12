@@ -1,7 +1,7 @@
 ## Hi, i'm Santiago Garcia 👋
 
 ![Banner](images/banner.png)
-I'm Santiago, I'm 23 years old, I live in Colombia and I'm a self-taught student of web programming and English.
+I'm Santiago, I'm 23 years old, I live in Colombia 🇨🇴 and I'm a self-taught student of web programming and English.
 
 ### My learned technologies
 
