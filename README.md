@@ -8,6 +8,7 @@ I'm Santiago, I'm 23 years old, I live in Colombia 🇨🇴 and I'm a self-taugh
 ![html](images/html.png)
 ![css](images/css-3.png)
 ![JS](images/js.png)
+![java](images/java32.png)
 ![python](images/piton2.png)
 ![git](images/git.png)
 ---
