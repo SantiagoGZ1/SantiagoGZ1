@@ -15,8 +15,8 @@ I'm Santiago, I'm 23 years old, I live in Colombia 🇨🇴 and I'm a self-taugh
 
 ### Tools
 
-![mysql](images/base-de-datos.png)
 ![git](images/git.png)
+![mysql](images/base-de-datos.png)
 ![vscode](images/vscode.png)
 
 ---
@@ -27,6 +27,12 @@ I'm Santiago, I'm 23 years old, I live in Colombia 🇨🇴 and I'm a self-taugh
 - Gym 🏃
 
 ---
+### Contact me
+santi10gz10@gmail.com ✉️
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi10gz10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-garcia-backendtech/)
+
 
 ### Social Media
 [![Esta es una imagen de ejemplo](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@programacion0xp?_t=8ixHbsqwXnq&_r=1)
