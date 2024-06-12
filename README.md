@@ -16,8 +16,9 @@ I'm Santiago, I'm 23 years old, I live in Colombia 🇨🇴 and I'm a self-taugh
 ### Tools
 
 ![git](images/git.png)
-![mysql](images/base-de-datos.png)
+![IntellijIDEA](images/IntelliJ_IDEA_Icon32.png)
 ![vscode](images/vscode.png)
+![mysql](images/base-de-datos.png)
 
 ---
 ### I Like...
