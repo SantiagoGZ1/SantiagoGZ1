@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Santiago Garcia 👋</h1>
 
 
-![Banner](images/santiagoBanner.png)
+![Banner](images/santiagoBanner.pn)
 
 ## 📝About Me
 
