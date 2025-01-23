@@ -5,8 +5,7 @@
 
 ## 📝About Me
 
-<h4 align="center">Hi, I'm Santiago, Backend developer specialized in efficient solutions with Java, Spring Boot, databases, and cloud. Focused on optimizing applications and improving the user experience.</h4>
-<br>
+I am a bilingual backend programmer (B2 English) with solid experience in developing applications using Java, MySQL, PostgreSQL, Insomnia, and Spring Boot. My background includes applying solid design principles such as SOLID, object oriented programming (OOP), and design patterns in various projects. Additionally, I have practical knowledge of JavaScript, HTML5, CSS3, and Markdown. I stand out for my ability to collaborate effectively in multidisciplinary teams. My time management and task breakdown skills allow me to optimize efficiency and maximize team productivity
 
 
 ## Technologies That I Know 🌐
