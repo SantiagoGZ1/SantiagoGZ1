@@ -34,7 +34,7 @@ emails and PDF tickets, along with the implementation of Sky, an AI chatbot that
 It’s a platform that teaches children the value of money and responsible management. With an easy-to-use interface, it helps them track income and expenses while learning basic concepts like saving, spending, and budgeting. Parents can also monitor and guide their children’s financial learning.
 
 ## 🎓 Certifications & Courses
-- [Web Back eEnd Developer](https://drive.google.com/file/d/1WCmTrY0qr0MK3r05Ebl4hF5uzari-TcV/view?usp=drive_link) - BeTek
+- [Web Back End Developer](https://drive.google.com/file/d/1WCmTrY0qr0MK3r05Ebl4hF5uzari-TcV/view?usp=drive_link) - BeTek
 - [Microsoft Azure Cloud Services](https://drive.google.com/file/d/1RlzHuEaVFrpY_kgM0Na2GyqHEVPhw6G7/view?usp=drive_link) - Coursera
 - [AWS Cloud Technical Essentials](https://drive.google.com/file/d/1ecLZKuI7BkCaubKTg3cRSm_sG3v9qeUI/view?usp=drive_link) - Coursera
 - [SQL](https://drive.google.com/file/d/1Fve27caVg3K-XKWPsTp-65cq6jOjc_wJ/view?usp=drive_link) - Fundaula
