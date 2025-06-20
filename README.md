@@ -5,7 +5,10 @@
 
 ## 📝About Me
 
-I am a bilingual backend programmer (B2 English) with solid experience in developing applications using Java, MySQL, PostgreSQL, Insomnia, and Spring Boot. My background includes applying solid design principles such as SOLID, object oriented programming (OOP), and design patterns in various projects. Additionally, I have practical knowledge of JavaScript, HTML5, CSS3, and Markdown. I stand out for my ability to collaborate effectively in multidisciplinary teams. My time management and task breakdown skills allow me to optimize efficiency and maximize team productivity
+Backend developer with experience in Java, Spring Boot, MySQL, and PostgreSQL. I apply SOLID
+principles and design patterns to develop scalable and maintainable code. I have experience
+implementing microservices and using cloud services such as Azure and AWS. I have worked in
+multidisciplinary teams, optimizing productivity with tools like Git, Jira, and agile methodologies.
 
 
 ### My Skills 🌐
