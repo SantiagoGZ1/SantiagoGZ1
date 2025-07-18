@@ -13,14 +13,11 @@ multidisciplinary teams, optimizing productivity with tools like Git, Jira, and 
 
 ### My Skills 🌐
 
-| **Languages**              | **Frameworks**            | **Databases**              | **Cloud**                 | **Tools**                 | **Other**                 |
-|----------------------------|---------------------------|----------------------------|---------------------------|---------------------------|---------------------------|
-| ![java](images/Languages/java32.png) | ![Spring](images/framework/spring-icon-32.png) | ![mysql](images/Database/mysql.png) | ![Azure](images/Cloud/AzureIcon.jpeg) | ![git](images/Tools/git.png) | ![html](images/Other/html.png) |
-| ![JS](images/Languages/js.png) |                           | ![postgreSQL](images/Database/postgre.png) | ![Aws](images/Cloud/Aws.jpeg) | ![Docker](images/Tools/docker.png) | ![css](images/Other/css-3.png) |
-|                            |                           | ![mongodb](images/Database/mongodbIcon.png) | ![Railway](images/Cloud/railway1.png) | ![Kubernetes](images/Tools/icons8-kubernetes-32.png)|                           |
-|                            |                           |                            |                           | ![devops](images/Tools/devops.png) |                           |
-|                            |                           |                            |                           | ![IntellijIDEA](images/Tools/IntelliJ_IDEA_Icon32.png) |                           |
-|                            |                           |                            |                           | ![vscode](images/Tools/vscode.png) |                           |
+| **Languages**              | **Frameworks**           | **Databases**              | **Cloud**                 | **CI/CD**                 | **Front**                 | **IA Tools**                 |
+|----------------------------|---------------------------|----------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| ![java](images/Languages/java32.png) | ![Spring](images/framework/spring-icon-32.png) | ![mysql](images/Database/mysql.png) | ![Azure](images/Cloud/AzureIcon.jpeg) | ![git](images/Tools/git.png) | ![html](images/Other/html.png) | ![Supabase](images/IATools/supabase-32.png)|
+| ![JS](images/Languages/js.png) |                           | ![postgreSQL](images/Database/postgre.png) | ![Aws](images/Cloud/Aws.jpeg) | ![Docker](images/Tools/docker.png) | ![css](images/Other/css-3.png) | ![bolt.new](images/IATools/bolt-new-icon-32.png)|
+|                            |                           | ![mongodb](images/Database/mongodbIcon.png) | ![Railway](images/Cloud/railway1.png) | ![Kubernetes](images/Tools/icons8-kubernetes-32.png)|                           | ![Lovable](images/IATools/lovable-logo-icon32.png)|
 
 ### What I Do
 
